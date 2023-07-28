@@ -1,0 +1,1 @@
+{"version":1,"defects":{"UserRepositoryTest::testSaveUser":4,"UserTest::testGetName":4},"times":{"UserRepositoryTest::testSaveUser":0.019,"UserTest::testGetName":0}}
